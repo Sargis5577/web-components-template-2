@@ -1,0 +1,9 @@
+.content {
+    border:1px solid black;
+    display:flex;
+    justify-content: center;
+   }
+   .content-2 {
+    margin-top:50px;
+    height:150px;
+   }
